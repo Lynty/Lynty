@@ -2,10 +2,12 @@
 
 about me
 - ☁️  sr. cloud infrastructure engineer
-- 🏂 snowboarding enthusiast
+- 🏂 snowboarder
 - 🍞 carb addict
 - 🏘 amateur real estate investor
 - 💃🏻 dancer
+- ✈️  traveler
+- 📖 learner
 - 👾 ex-gamer with semi-annual relapses
 - 😶 introvert
-- ☕️ caffeine fueled
+- ☕️ fueled by caffeine
