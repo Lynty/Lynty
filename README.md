@@ -1,7 +1,7 @@
 ### hi! 👋
 
 about me
-- ☁️  sr. cloud infrastructure engineer
+- ☁️  customer engineer, application modernization
 - 🏂 snowboarder
 - 🍞 carb addict
 - 🏘 amateur real estate investor
@@ -9,5 +9,4 @@ about me
 - ✈️  traveler
 - 📖 learner
 - 👾 ex-gamer with semi-annual relapses
-- 😶 introvert
 - ☕️ fueled by caffeine
